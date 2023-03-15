@@ -1,0 +1,80 @@
+body {
+  background: #4a6997;
+  font-family: 'Original Surfer', cursive;
+  color:#a5c9ff;
+  margin:0px;
+  /* Colors:
+  F7F4EA
+  DED9E2
+  C0B9DD;
+  80A1D4 OR #a5c9ff
+  75C9C8 
+  */
+}
+
+#hero-section { 
+  width:100%;
+  height:200px;
+  background: url("images/enoshima.jpg");
+  background-size: cover;
+  background-position-y: bottom;
+}
+
+form { 
+  height:auto;
+  margin:0px;
+}
+
+input { 
+  height:auto;
+  margin:0px;
+}
+
+.btn { 
+  font-family: 'Original Surfer', cursive;
+  height: 40px;
+  width: auto; 
+  color: #53514a;
+  background:#F7F4EA; 
+  border: #d6be76 solid 1px;
+  border-radius: 5px;
+  margin: 0px 20px;
+}
+.btn:hover { 
+  background:#e9e2cb; 
+}
+
+.bar { 
+  display:flex;
+  width:auto; 
+  height:auto;
+  background: #DED9E2;
+  margin:0px;
+  padding:3px;
+  border:0px;
+}
+
+.info-section {
+  display:flex;
+  justify-content:left;
+  padding:0px;
+  background-color:#80A1D4;
+  color:azure;
+}
+
+#subheadings { 
+  color:#75C9C8;
+  display:flex; 
+  justify-content:space-evenly;
+}
+#center-image {
+  width:200px;
+  border:solid #aec7ec 10px;
+  border-radius:30px;
+  margin:10px 20px;
+}
+
+#footer { 
+  text-align: center;
+}
+
