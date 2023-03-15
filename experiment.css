@@ -15,7 +15,7 @@ body {
 #hero-section { 
   width:100%;
   height:200px;
-  background: url("images/enoshima.jpg");
+  background: url("/images/enoshima.jpg");
   background-size: cover;
   background-position-y: bottom;
 }
